@@ -1,0 +1,22 @@
+body{
+    width: 70%;
+    margin: 5rem auto;
+}
+
+h1{
+    background-color: rgb(103, 137, 187);
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0;
+}
+#textbox{
+    width: 98.5%;
+    border-top: none;
+    font-size: 1.2rem;
+}
+p{
+    background-color: gray;
+    margin-top: 0.5rem;
+    padding: 0.3rem 1rem;
+    font-size: 1.3rem;
+}
